@@ -1,8 +1,20 @@
+# Hi there, I'm [Mohd Uwaish] 👋
+
+I'm a passionate Computer Science Graduate with a strong background in Full stack development. I love Python and Javascript and enjoy using technology to develop full stack applications and Data Science Solutions.
+
+- 🔭 I'm currently a Master's student at [University of Göttingen, Germany] (https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html).
+- 🌱 I'm constantly learning and improving my skills in [Machine Learning and Data Science].
+- 💬 Ask me about [Topics You're Knowledgeable About].
+- 📫 You can reach me at [mohd.uwaish.e21@nsut.ac.in].
+- 📝 I regularly write articles on [[Digital Danke Schoen](https://www.digitaldankeschoen.com/)].
+
 ### My Tech Stack
 
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FFA500?style=for-the-badge)
 
 #### Web Development:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -24,6 +36,9 @@
 
 #### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 #### IDEs/Editors:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -31,26 +46,15 @@
 
 #### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### Other Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### Learning and Interests:
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
-Feel free to customize the stack with any additional technologies, tools, or languages you work with. You can also rearrange or format the badges as needed. Adding this stack to your GitHub profile provides a quick overview of your skills and interests for visitors to your profile.
 
 
-- 👋 Hi, I’m @mohdUwaish59
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mohdUwaish59/mohdUwaish59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
