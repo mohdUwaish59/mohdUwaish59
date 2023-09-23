@@ -2,7 +2,7 @@
 
 I'm a passionate Computer Science Graduate with a strong background in Full stack development. I love Python and Javascript and enjoy using technology to develop full stack applications and Data Science Solutions.
 
-- 🔭 I'm currently a Master's student at ![University of Göttingen, Germany] (https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html).
+- 🔭 I'm currently a Master's student at [University of Göttingen, Germany] (https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html).
 - 🌱 I'm constantly learning and improving my skills in [Machine Learning and Data Science].
 - 💬 Ask me about [Software Development, Machine Learning, Data Analysis, Data Science, Cloud Computing].
 - 📫 You can reach me at [mohd.uwaish.e21@nsut.ac.in].
@@ -63,8 +63,8 @@ I'm a passionate Computer Science Graduate with a strong background in Full stac
 
 ## 📫 Let's Connect
 
-- GitHub: [Your GitHub Profile]([https://github.com/YourGitHubUsername](https://github.com/mohdUwaish59/mohdUwaish59/))
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohd-uwaish-72b779282/)
-- Xing: [Xing](https://www.xing.com/profile/Mohd_Uwaish/cv)
-- Email: [Your Email Address](mailto:mohd.uwaish.e21@nsut.ac.in)
-- Website/Portfolio: [Your Website/Portfolio](https://www.digitaldankeschoen.com/)
+- GitHub: [Github_Mohd-Uwaish](https://github.com/YourGitHubUsername](https://github.com/mohdUwaish59/mohdUwaish59/))
+- LinkedIn: [LinkedIn_Mohd-Uwaish](https://www.linkedin.com/in/mohd-uwaish-72b779282/)
+- Xing: [Xing_Mohd-Uwaish](https://www.xing.com/profile/Mohd_Uwaish/cv)
+- Email: [Email_Mohd-Uwaish](mailto:mohd.uwaish.e21@nsut.ac.in)
+- Website/Portfolio: [Digital Danke Schoen](https://www.digitaldankeschoen.com/)
