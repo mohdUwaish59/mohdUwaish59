@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohd Uwaish] 👋
+# Hi there, I'm Mohd Uwaish 👋
 
 I'm a passionate Computer Science Graduate with a strong background in Full stack development. I love Python and Javascript and enjoy using technology to develop full stack applications and Data Science Solutions.
 
