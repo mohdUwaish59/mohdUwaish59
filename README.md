@@ -4,7 +4,7 @@ I'm a passionate Computer Science Graduate with a strong background in Full stac
 
 - 🔭 I'm currently a Master's student at [University of Göttingen, Germany] (https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html).
 - 🌱 I'm constantly learning and improving my skills in [Machine Learning and Data Science].
-- 💬 Ask me about [Topics You're Knowledgeable About].
+- 💬 Ask me about [Software Development, Machine Learning, Data Analysis, Data Science, Cloud Computing].
 - 📫 You can reach me at [mohd.uwaish.e21@nsut.ac.in].
 - 📝 I regularly write articles on [[Digital Danke Schoen](https://www.digitaldankeschoen.com/)].
 
@@ -29,6 +29,8 @@ I'm a passionate Computer Science Graduate with a strong background in Full stac
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 #### Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,6 +57,14 @@ I'm a passionate Computer Science Graduate with a strong background in Full stac
 #### Learning and Interests:
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F61?style=for-the-badge&logo=data&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-000000?style=for-the-badge)
 
 
+## 📫 Let's Connect
 
+- GitHub: [Your GitHub Profile]([https://github.com/YourGitHubUsername](https://github.com/mohdUwaish59/mohdUwaish59/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohd-uwaish-72b779282/)
+- Xing: [Xing](https://www.xing.com/profile/Mohd_Uwaish/cv)
+- Email: [Your Email Address](mailto:mohd.uwaish.e21@nsut.ac.in)
+- Website/Portfolio: [Your Website/Portfolio](https://www.digitaldankeschoen.com/)
