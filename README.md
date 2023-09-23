@@ -2,7 +2,7 @@
 
 I'm a passionate Computer Science Graduate with a strong background in Full stack development. I love Python and Javascript and enjoy using technology to develop full stack applications and Data Science Solutions.
 
-- 🔭 I'm currently a Master's student at [University of Göttingen, Germany] (https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html).
+- 🔭 I'm currently a Master's student at ![University of Göttingen, Germany] (https://www.uni-goettingen.de/en/faculty+of+mathematics+and+computer+science/20491.html).
 - 🌱 I'm constantly learning and improving my skills in [Machine Learning and Data Science].
 - 💬 Ask me about [Software Development, Machine Learning, Data Analysis, Data Science, Cloud Computing].
 - 📫 You can reach me at [mohd.uwaish.e21@nsut.ac.in].
