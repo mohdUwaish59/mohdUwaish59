@@ -6,7 +6,7 @@ I'm a passionate Computer Science Graduate with a strong background in Full stac
 - 🌱 I'm constantly learning and improving my skills in [Machine Learning and Data Science].
 - 💬 Ask me about [Software Development, Machine Learning, Data Analysis, Data Science, Cloud Computing].
 - 📫 You can reach me at [mohd.uwaish.e21@nsut.ac.in].
-- 📝 I regularly write articles on [[Digital Danke Schoen](https://www.digitaldankeschoen.com/)].
+- 📝 I am developing and regularly write articles on my personal portal [[Digital Danke Schoen](https://www.digitaldankeschoen.com/)].
 
 ### My Tech Stack
 
