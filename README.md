@@ -25,7 +25,7 @@ I'm a passionate Computer Science Graduate with a strong background in Full stac
 #### Data Analysis and Data Science:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-[![Plotly](https://upload.wikimedia.org/wikipedia/commons/0/05/Plotly-logo-01-square.png)](https://plotly.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4B5B?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-3776AB?style=for-the-badge&logo=python&logoColor=white)
